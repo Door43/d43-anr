@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anr:home|Door43 (anr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anr|d43-anr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anr/archive/master.zip|d43-anr.zip]]
+
+**Recent Changes**
+{{changes>ns = anr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anr|Ethnologue data]]
+
